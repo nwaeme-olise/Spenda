@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "371320351561",
+    "project_id": "spenda-3d0df",
+    "storage_bucket": "spenda-3d0df.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:371320351561:android:dc5c6385fa0906b3a2c898",
+        "android_client_info": {
+          "package_name": "com.example.spenda"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "371320351561-2ao6i3sfvvfn3aq6mrh498t5bqajrkv8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.spenda",
+            "certificate_hash": "28fa13a253413e69032f16ae00e404a6841e4850"
+          }
+        },
+        {
+          "client_id": "371320351561-k2tj1fg6f7voclitko9qp8i7ofai4jck.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwTK4llrzSOF9D5qX81Idta35m6Y4JZfY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "371320351561-k2tj1fg6f7voclitko9qp8i7ofai4jck.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
